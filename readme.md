@@ -6,7 +6,7 @@
 <br>
 
 
-# [tugas.py](https://github.com/melviandanuw/TugasKelilingLuasLingkaran/blob/main/tugas.py)
+# [Tugas ke 4.py](https://github.com/Hamdaninuraprizal/Keliling-lingkaran/edit/main/readme.md)
 
 <p align="justify">Berisi syntax menghitung Luas & Keliling dalam bahasa pemrograman python.
 
